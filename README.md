@@ -12,7 +12,7 @@
 - Scalable platform features (APIs, data pipelines, dashboards) for regulated industries (energy, climate, healthcare).  
 - Rapid prototypes and data-driven solutions to test new product ideas (chatbots, evaluation metrics, automations).  
 
-🔗 Featured projects: [Notion Daily Review Agent](https://github.com/LukeFusion/notion-daily-review-agent) (AI agent prototype) | [Site & Portfolio](https://lukesquire.us) (my product systems case studies).  
+🔗 Featured projects: [Daily Review Agent](https://github.com/LukeFusion/daily-briefing-agent) (AI agent prototype) | [Site & Portfolio](https://lukesquire.us) (my product systems case studies).  
 
 **How I work:** 
 Customer-centric, metrics-driven, and collaboration-first. I tie technical choices to clear product goals and compliance requirements.  
